@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<library>
+    <book id="    1">
+        <title>        Pride and Prejudice</title>
+        <author>        Robert C. Martin</author>
+        <year>        2018</year>
+        <genre>        Fiction</genre>
+        <price>        26.64</price>
+        <language>        Japanese</language>
+        <translator>        John Doe</translator>
+        <publisher>
+            <name>            TechBooks Publishing</name>
+            <address>
+                <city>                Berlin</city>
+                <country>                USA</country>
+            </address>
+        </publisher>
+    </book>
+    <book id="    2">
+        <title>        Effective Java</title>
+        <author>        George Orwell</author>
+        <year>        2013</year>
+        <genre>        Fiction</genre>
+        <price>        80.01</price>
+        <language>null</language>
+        <translator>null</translator>
+        <isbn>        978-2-642887135</isbn>
+    </book>
+    <book id="    3">
+        <title>        Foundation</title>
+        <author>        Isaac Asimov</author>
+        <year>        1999</year>
+        <genre>        Biography</genre>
+        <price>        30.32</price>
+        <language>        Russian</language>
+        <translator>        Isaac Asimov</translator>
+        <format>        Audiobook</format>
+        <awards>
+            <award>            Book of the Year</award>
+            <award>            Best Seller</award>
+            <award>            Critics' Choice</award>
+        </awards>
+        <reviews>
+            <review>
+                <user>                dave</user>
+                <rating>                5</rating>
+                <comment>                Very informative.</comment>
+            </review>
+            <review>
+                <user>                bob</user>
+                <rating>                2</rating>
+                <comment>                Could be better.</comment>
+            </review>
+        </reviews>
+    </book>
+    <book id="    4">
+        <title>        1984</title>
+        <author>        Robert C. Martin</author>
+        <year>        2009</year>
+        <genre>        History</genre>
+        <price>        64.66</price>
+        <language>null</language>
+        <translator>        Robert C. Martin</translator>
+        <isbn>        978-2-258342083</isbn>
+        <format>        Ebook</format>
+        <publisher>
+            <name>            Modern Publishing</name>
+            <address>
+                <city>                Moscow</city>
+                <country>                Germany</country>
+            </address>
+        </publisher>
+        <awards>
+            <award>            Book of the Year</award>
+            <award>            Best Seller</award>
+        </awards>
+        <reviews>
+            <review>
+                <user>                dave</user>
+                <rating>                1</rating>
+                <comment>                Loved the examples.</comment>
+            </review>
+        </reviews>
+    </book>
+    <book id="    5">
+        <title>        Effective Java</title>
+        <author>        Isaac Asimov</author>
+        <year>        1983</year>
+        <genre>        Biography</genre>
+        <price>        51.33</price>
+        <language>null</language>
+        <translator>        George Orwell</translator>
+        <format>        Ebook</format>
+    </book>
+</library>
